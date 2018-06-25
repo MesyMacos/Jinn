@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jinn</string>
+
+    <!-- Category name for Maths [CHAR LIMIT=20] -->
+    <string name="category_maths">Maths</string>
+
+    <!-- Category name for the vocabulary words for English [CHAR LIMIT=20] -->
+    <string name="category_english">English</string>
+
+    <!-- Category name for the vocabulary words for Health and Medicine [CHAR LIMIT=20] -->
+    <string name="category_health">Health and Medicine</string>
+
+    <!-- Category name for the vocabulary words for World Affairs [CHAR LIMIT=20] -->
+    <string name="world_affairs">World Affairs</string>
+</resources>

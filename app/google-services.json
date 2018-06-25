@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1087868056045",
+    "firebase_url": "https://jinn-68429.firebaseio.com",
+    "project_id": "jinn-68429",
+    "storage_bucket": "jinn-68429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087868056045:android:4cc249392cf511ac",
+        "android_client_info": {
+          "package_name": "graceogebe.jinn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087868056045-f3lbf37lpels6tgg89e9kr40gp4mn8ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "graceogebe.jinn",
+            "certificate_hash": "9a37e8106c039ba500a9ffe8a7ceb256f1eb11d3"
+          }
+        },
+        {
+          "client_id": "1087868056045-ku7ssqhb78cikpb4s80ms7ultjgrrr1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "graceogebe.jinn",
+            "certificate_hash": "b1251bc42a85ee8064913a06885ddac7c2ba1dc1"
+          }
+        },
+        {
+          "client_id": "1087868056045-lo66715lq4b25oemspnrbjnfcehvcl9k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1087868056045-lo66715lq4b25oemspnrbjnfcehvcl9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYZpahm6-8OdBDITWGrXmiv8MdKEjq80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087868056045-lo66715lq4b25oemspnrbjnfcehvcl9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
